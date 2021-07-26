@@ -30,3 +30,4 @@ What steps did you take to try and increase model performance?
 I tried adding more hidden layers and changing the output layer. I used tanh as an output layer but it did not improve reults. 
 
 ![Attempt_2](https://user-images.githubusercontent.com/80054925/126931875-c1acb40a-88e7-46f3-b723-87f840359d67.png)
+![Attempt_3](https://user-images.githubusercontent.com/80054925/126932028-9ce5b51c-9297-4d7b-bae2-f5761fbff45b.png)
