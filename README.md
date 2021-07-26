@@ -31,3 +31,7 @@ I tried adding more hidden layers and changing the output layer. I used tanh as 
 
 ![Attempt_2](https://user-images.githubusercontent.com/80054925/126931875-c1acb40a-88e7-46f3-b723-87f840359d67.png)
 ![Attempt_3](https://user-images.githubusercontent.com/80054925/126932028-9ce5b51c-9297-4d7b-bae2-f5761fbff45b.png)
+
+
+## Summary
+This model did not reach the goal of 75% accuracy. This could be due to many factors. Maybe I got rid of too many columns or did not use the correct activation funtion. I would do more reseasrch about activation functions and make sure I am using the proper one for the data. 
