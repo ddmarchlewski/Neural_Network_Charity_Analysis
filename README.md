@@ -15,6 +15,6 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 ## Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- The deep-learning neural network model is made of two hidden layers with 80 and 30 neurons. These layers also have an activation funtion. The first and second hidden layers being 'relu' and 'sigmoid' being the outcome
+- The deep-learning neural network model is made of two hidden layers with 80 and 30 neurons. These layers also have an activation funtion. The first and second hidden layers being 'relu' and 'sigmoid' being the outcome.
 
 ![Attempt_1](https://user-images.githubusercontent.com/80054925/126931487-4b3bf4f6-97f1-4ccf-b172-4d2953c05eb7.png)
